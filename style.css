@@ -1,0 +1,117 @@
+.piano {
+border: 2px solid black;
+  height: 280px;
+  width:70px;
+}
+#soundA{
+  background-color: red;
+position:fixed;
+  font-size:30px;
+}
+#soundB {
+  margin-left:70px;
+  position:fixed;
+  background-color: blue;
+  font-size:30px;
+}
+#soundC {
+  margin-left:145px;
+  background-color: green;
+position:fixed;
+  font-size: 30px;
+  
+}
+#soundD {
+  margin-left:218px;
+  background-color:yellow;
+  font-size:30px;
+  position:fixed;
+}
+#soundE {
+margin-left:290px;
+margin-bottom:50px;
+  background-color:brown;
+font-size:30px;
+  position:fixed;
+  
+}
+#soundF {
+  background-color:cyan;
+  margin-left:363px;
+  font-size:30px;
+  position:fixed;
+}
+#soundG {
+  margin-left:435px;
+  background-color:purple;
+  font-size:30px;
+  position:absolute;
+}
+#soundGnum {
+  margin-left:510px;
+  background-color: darkgreen;
+  font-size:30px;
+  position:absolute;
+}
+#soundFnum {
+  margin-left:580px;
+  background-color:darkblue;
+  font-size:30px;
+  position:fixed;
+}
+#soundCnum {
+  margin-left:650px;
+  background-color:orange;
+  font-size:30px;
+  position:fixed;
+}
+#soundBb {
+  margin-left:720px;
+  background-color:maroon;
+  font-size:30px;
+position:fixed;
+}
+#soundeB {
+  margin-left:790px;
+  background-color:lightgreen;
+  font-size:30px;
+  position:fixed;
+}
+#soundanon {
+  margin-top:280px;
+  background-color:pink;
+  font-size:20px;
+  position:fixed;
+}
+#soundanony {
+margin-top:280px;
+margin-left:70px;
+ font-size:20px;
+  background-color:gray;
+  position:fixed;
+}
+#soundanon2 {
+  margin-top:280px;
+  margin-left:140px;
+  font-size:20px;
+  background-color:darkgray;
+  position:fixed;
+}
+#soundanon3 {
+  margin-top:280px;
+  margin-left:210px;
+  font-size:20px;
+  background-color:red;
+    position:fixed;
+}
+#design {
+margin-top:340px;
+  margin-left:450px;
+  position:absolute;
+  font-family:cursive;
+  color:purple;
+  font-size:60px;
+}
+#design:hover {
+color:blue;
+}
