@@ -1,4 +1,5 @@
-/* If you noticed, each key on (div, in other words) has a audio added to it. Credits to pinkyfinger for the audio! */
+/* If you noticed, each key on (div, in other words) has a audio added to it.
+* Credits to pinkyfinger for the audio! */
 $(document).ready(function(){
   $('#soundA').click(function(){
     $('#soundA').fadeTo("fast", 0.2);
